@@ -431,7 +431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   horizontalInput: 1.34
   verticalInput: 0
-  speed: 20
+  speed: 10
   xRange: 20
   zMin: -10
   zMax: 20
